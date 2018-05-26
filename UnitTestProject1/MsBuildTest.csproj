@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\MsBuild.csproj">
+    <ProjectReference Include="..\ClassLibrary1\MsBuil.csproj">
       <Project>{1e149af9-3700-4954-b793-9f0ec9c6495a}</Project>
-      <Name>MsBuild</Name>
+      <Name>MsBuil</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
